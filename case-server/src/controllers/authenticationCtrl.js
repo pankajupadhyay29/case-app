@@ -4,7 +4,7 @@ const uuid = require('uuid');
 
 const users = [
     { userName: "admin", password: "admin" },
-    { userName: "logrhythmadmin", password: "logrhythm!1" }
+    { userName: "test", password: "test" }
 ]
 
 const tokens = [];
