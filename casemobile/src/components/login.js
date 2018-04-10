@@ -4,7 +4,7 @@ import { Container, Header, Content, Form, Item, Input, Label, Button } from 'na
 
 import {authenticate} from '../authentication'
 
-const EMAIL = "admin@logrhythm.com";
+const EMAIL = "admin@abc.com";
 const PASSWORD = 'pass123'
 
 export default class Login extends Component {
